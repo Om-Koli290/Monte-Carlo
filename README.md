@@ -36,13 +36,6 @@ streamlit run main.py
 
 Your browser should open the app at http://localhost:8501
 
-🧾 File Structure
-
-├── main.py               # Streamlit app UI
-├── data_loader.py        # Downloads price data and calculates log returns
-├── simulation.py         # Monte Carlo simulation logic
-├── risk_metrics.py       # Risk calculations: VaR, CVaR, etc.
-├── plots.py              # Matplotlib distribution plotting
 
 ⚙️ Dependencies
 Make sure the following Python packages are installed:
