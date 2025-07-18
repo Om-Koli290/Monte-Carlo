@@ -28,14 +28,6 @@ This Streamlit app simulates the potential future value of a portfolio using Mon
 
 ---
 
-## 🛠️ Installation & Setup
-
-### Clone the repository
-
-git clone https://github.com/yourusername/portfolio-risk-montecarlo.git
-cd portfolio-risk-montecarlo
-
-
 🚀 Running the App
 
 Simply run:
